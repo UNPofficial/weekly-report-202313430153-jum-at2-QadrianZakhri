@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m College at Padang University<br>📚 Currently learning C language<br> ⚡In my free time I playing games, hangout<br>
+🔭 I’m College at Padang University<br>📚 Currently learning C language<br> ⚡ In my free time I playing games, hangout<br>
 
 
 ## Social Media:
