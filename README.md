@@ -17,3 +17,15 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=QadrianZakhri&icon=0&color=11)](https://visitcount.itsvg.in)
+
+## Jobsheet 1
+Materi di atas membahas konsep dasar algoritma, pemrograman, dan bahasa pemrograman C, serta memberikan informasi mengenai IDE (Integrated Development Environment) dan persiapan untuk pemrograman C
+   - Pengantar tentang algoritma sebagai urutan langkah-langkah sistematis dan logis untuk menyelesaikan masalah atau mencapai tujuan tertentu.
+   - Konsep bahasa pemrograman C sebagai bahasa yang mendukung pemrograman terstruktur dan rekursif.
+   - Tingkatan bahasa pemrograman berdasarkan kedekatannya dengan mesin komputer.
+   - Sejarah dan pengembangan bahasa pemrograman C oleh Dennis Ritchie pada awal pengembangan sistem operasi Unix.
+   - Penjelasan tentang IDE (Integrated Development Environment) sebagai perangkat lunak yang digunakan untuk membuat program komputer.
+   - Contoh IDE seperti DevC++, Visual Studio, dan CodeBlocks.
+   - Tujuan pembelajaran untuk memahami cara instalasi, fungsi, dan penggunaan IDE.
+
+Materi ini juga mencakup latihan praktis seperti instalasi IDE dan pembuatan program sederhana "Hello World!" menggunakan IDE yang telah diinstal.
